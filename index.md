@@ -8,6 +8,31 @@
 エンジニア歴は20年前後くらい。
 基本的にIT系の経歴について記載します。
 
+## 職務経歴（概要）
+
+障害対応10年くらい
+
+SIerでのサーバ製品企画開発4年くらい
+
+組込機器のファームウェア開発
+
+特許調査
+
+AutoCADでの図面管理
+
+バイヤーとの交渉作業
+
+IoTでのテストプログラム開発
+
+サーバ運用構築5年くらい
+
+脆弱性調査
+
+サーバ付属のマニュアルの作成
+
+マーケティング
+
+
 ## 略歴
 
 小学4年：「これからはマイコンの時代だ！」と自分の為に買ってきたマイコンを30分で諦めた親父からJR-200を押し付けられ、ベーマガ片手にプログラミング開始。
@@ -46,13 +71,17 @@ Apache2.2系/2.4系/Nginx/MySQL5.5～5.7
 
 PostgreSQL/MongoDB/ClickHouse/SQL Server
 
-Redis/Memcached
+Redis/Memcached/LDAP
 
-Jenkins/BIND/Tomcat/sendmail
+Jenkins/BIND/Tomcat/sendmail/Fluentd
 
 WordPress/DRBD
 
 ParallelNavi
+
+### 監視/分析系
+
+Zabbix/Cacti/Munin/NewRelic/Mackerel
 
 ### OS
 
@@ -94,7 +123,7 @@ Oracle Exadata/Netezza
 
 Adobe PhotoShop5.0以降
 
-Unity/Blender
+Unity/Blender/VRoid
 
 ### その他
 
@@ -102,4 +131,6 @@ Ansible/ApacheBench/Jmeter
 
 TensorFlow/Django/FuelPHP/CakePHP
 
-Ruby on Rails/swagger
+Ruby on Rails/swagger/Hadoop/GPU on Yarn/Kubernates
+
+Docker/Firebase/Spark/Kafka/Secor
