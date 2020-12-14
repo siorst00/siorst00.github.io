@@ -106,9 +106,9 @@ BASIC/マシン語（Z80/6809）/VB(ver5)
 
 Fortran77/Borland C/C++/C#/awk
 
-Perl/PHP/ShellScript/Python
+Perl/PHP(5.x系、7.x系)/ShellScript/Python(3.x系)
 
-Go言語/Node.js/JAVA/Scala/Ruby
+Go言語/Node.js/Java(8系)/Scala/Ruby
 
 HTML/CSS/ReactNative
 
@@ -122,9 +122,9 @@ Oracle Exadata/Netezza
 
 ### ツール系
 
-Adobe PhotoShop5.0以降
+Adobe PhotoShop5.0以降(10年以上使用中)
 
-Unity/Blender/VRoid
+Unity/Blender(2.8系)/VRoid
 
 ### その他
 
