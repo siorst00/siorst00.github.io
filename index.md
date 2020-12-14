@@ -68,11 +68,11 @@ VirtualNetwork/ResourceGroup/RBAC/Functions
 
 ### ミドルウェア
 
-Apache2.2系/2.4系/Nginx/MySQL5.5～5.7
+Apache2.2系/2.4系/Nginx/MySQL5.5～5.7/MariaDB
 
 PostgreSQL/MongoDB/ClickHouse/SQL Server
 
-Redis/Memcached/LDAP
+Redis/Memcached/OpenLDAP
 
 Jenkins/BIND/Tomcat/sendmail/Fluentd
 
@@ -86,7 +86,7 @@ Zabbix/Cacti/Munin/NewRelic/Mackerel
 
 ### OS
 
-Linux系（Redhat7.2以降、Turbo、Vine、Miracle等）
+Linux系（Redhat7.2以降、Turbo、Vine、Miracle、SuSE、CentOS等）
 
 BSD系（FreeBSD、OpenBSD)
 
@@ -104,7 +104,7 @@ WindowsServer系（2003まで）
 
 BASIC/マシン語（Z80/6809）/VB(ver5)
 
-Fortran77/Borland C/C++/C#
+Fortran77/Borland C/C++/C#/awk
 
 Perl/PHP/ShellScript/Python
 
