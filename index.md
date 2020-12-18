@@ -21,6 +21,7 @@
 
 この後はフリーランスとして開業し、インフラ/SREをメインにプログラミングスクールの補助、
 機械学習環境の検証、自動化関連の作業を行ってきました。
+要件定義/基本設計/詳細設計と上流工程も経験し、下流工程についても数多く経験しております
 
 ## 職務経歴（概要）
 
@@ -110,7 +111,7 @@ Perl/PHP(5.x系、7.x系)/ShellScript/Python(3.x系)
 
 Go言語/Node.js/Java(8系)/Scala/Ruby
 
-HTML/CSS/ReactNative
+HTML/CSS/ReactNative/Typescript
 
 ### ストレージ系
 
@@ -130,8 +131,10 @@ Unity/Blender(2.8系)/VRoid
 
 Ansible/ApacheBench/Jmeter/Terraform
 
-TensorFlow/Django/FuelPHP/CakePHP
+TensorFlow/Django/FuelPHP/CakePHP/CodeIgnaiter
 
 Ruby on Rails/swagger/Hadoop/GPU on Yarn/Kubernates
 
 Docker/Firebase/Spark/Kafka/Secor
+
+gulp/Packer/Hubot/TravisCI/CircleCI
