@@ -138,3 +138,5 @@ Ruby on Rails/swagger/Hadoop/GPU on Yarn/Kubernates
 Docker/Firebase/Spark/Kafka/Secor
 
 gulp/Packer/Hubot/TravisCI/CircleCI
+
+Boomi/Rundeck/Redmine/Growi/Clickup/Taiga.io
