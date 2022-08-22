@@ -131,12 +131,18 @@ Unity/Blender(2.8系)/VRoid
 
 Ansible/ApacheBench/Jmeter/Terraform
 
-TensorFlow/Django/FuelPHP/CakePHP/CodeIgnaiter
+TensorFlow/Django/FuelPHP/CakePHP
 
-Ruby on Rails/swagger/Hadoop/GPU on Yarn/Kubernates
+CodeIgnaiter
+
+Ruby on Rails/swagger/Hadoop
+
+GPU on Yarn/Kubernates
 
 Docker/Firebase/Spark/Kafka/Secor
 
 gulp/Packer/Hubot/TravisCI/CircleCI
 
-Boomi/Rundeck/Redmine/Growi/Clickup/Taiga.io
+Boomi/Rundeck/Redmine
+
+Growi/Clickup/Taiga.io
